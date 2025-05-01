@@ -1,7 +1,7 @@
 import openai
 
 # Initialize OpenAI API key
-openai.api_key = "Your_API_key"
+openai.api_key = "YOUR_OPENAI_API_KEY"
 
 def explain_code(code_snippet):
     """
