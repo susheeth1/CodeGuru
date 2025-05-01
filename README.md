@@ -24,8 +24,5 @@ This project uses the OpenAI API to explain Python code in simple, human-friendl
 ---
 
 ## 📸 Screenshot
-
-> _Coming soon..._
-
-
+![image](https://github.com/user-attachments/assets/7a6f5eed-6e8d-4823-8814-1307b91ad063)
 
